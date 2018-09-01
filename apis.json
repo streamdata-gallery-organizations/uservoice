@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - UserVoice",
+	"description": "This is a repository of uservoice APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/uservoice.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://uservoice.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "UserVoice",
+			"x-api-slug": "uservoice",
+			"description": "Product management software that transforms how businesses capture and analyze feedback to prioritize the roadmap and make strategic product decisions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/86-uservoice.jpg",
+			"humanURL": "https://uservoice.com/",
+			"baseURL": ":///user/http://api.thenounproject.com",
+			"tags": "UserVoice",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/uservoice/master/_listings/uservoice/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "UserVoice",
+	"include": [
+		{
+			"name": "UserVoice",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/uservoice/master/_listings/uservoice/apis.yaml"
+		}
+	]
+}

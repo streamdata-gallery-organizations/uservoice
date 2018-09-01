@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: UserVoice
 x-complete: 1
@@ -80,4 +79,3 @@ paths:
       - Id
       - Collections
       - Slug
----
